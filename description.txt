@@ -1,9 +1,0 @@
-It’s a voice command typing email which sent the emails automatically.
-I have used python language and some of its packages like text to
-speech,speech recognition,pycharm and smtp (Standard email transfer protocol).
-In this program, the bot will ask you several questions like,
-1.Whom you want to send the email
-2.What is the subject of your email
-3.What is the message of your email which you want to send.
-And you will reply to the bot whenever he asks you these questions.
-If you provide the correct information then the mail will automatically send
